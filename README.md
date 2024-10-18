@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at my [porfolio](https://khangltt2003.github.io/portfolio/)
 
-- 📫 How to reach me **khangltt2003@gmail.com**
+- 📫 Feel free to contact me at **khangltt2003@gmail.com**
 
 - 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1wU4vCrZMu2cuLlJODdnU8sH5lhOEdxe4/view?usp=sharing)
 
@@ -17,6 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khangltt2003&show_icons=true&locale=en&layout=compact" alt="khangltt2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khangltt2003&show_icons=true&locale=en" alt="khangltt2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khangltt2003&" alt="khangltt2003" /></p>
+
