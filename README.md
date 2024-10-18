@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thien Le (Dylan)</h1>
 <h3 align="center">A Computer Science enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at my [https://khangltt2003.github.io/portfolio/](portfolio)
+- 👨‍💻 All of my projects are available at my [porfolio](https://khangltt2003.github.io/portfolio/)
 
 - 📫 How to reach me **khangltt2003@gmail.com**
 
-- 📄 Know about my experiences through my [https://drive.google.com/file/d/1wU4vCrZMu2cuLlJODdnU8sH5lhOEdxe4/view?usp=sharing](resume)
+- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1wU4vCrZMu2cuLlJODdnU8sH5lhOEdxe4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
