@@ -5,7 +5,7 @@
 
 - 📫 Feel free to contact me at **khangltt2003@gmail.com**
 
-- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1Z3VRL76_Zh1NTjN1TogzOR04oi0kgh_M/view?usp=sharing)
+- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1jx-ByFypwHi7JGO8_1PyWLfZ2zviUw4J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
