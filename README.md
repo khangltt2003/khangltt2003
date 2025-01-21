@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thien Le (Dylan)</h1>
+<h1 align="center">Hi 👋, I'm Dylan Le</h1>
 <h3 align="center">A Computer Science enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at my [porfolio](https://khangltt2003.github.io/portfolio/)
